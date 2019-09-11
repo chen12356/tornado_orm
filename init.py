@@ -4,6 +4,7 @@ from main import Base, Session, User
 
 # 创建表结构和数据
 Base.metadata.create_all()
+#中是我西iugai的的将阿黄飞鸿第四故事女工的
 
 # 定义数据
 bob = User(name='bob', birthday='1990-3-21', city='上海', money=370)
